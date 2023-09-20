@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fhardy081
+- 👋 Hi, I’m Fauzan Aulia Hardy
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on internship or entry-level position in frontend/fullstack
