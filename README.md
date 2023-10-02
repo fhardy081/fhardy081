@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fauzan Aulia Hardy
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Go Language
 - 💞️ I’m looking to collaborate on internship or entry-level position in frontend/fullstack
 - 📫 How to reach me through email: fauzanhardy@gmail.com or Linkedin: Fauzan Aulia Hardy
 
